@@ -2,6 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 import { Router } from './route'
 import { Login } from './component/login/login'
+import 'antd/dist/antd.css';
 function App() {
   return (
     <div className="App">
